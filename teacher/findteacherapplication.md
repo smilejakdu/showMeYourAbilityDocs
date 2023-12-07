@@ -77,10 +77,10 @@ public class FindTeacherApplication {
                 .fetchOne();
 
 //        Teacher teacher = null;
-        // teacher 값을 null 로 하려면 어떻게 해야해 ??
 //        if (teacher == null) {
 //            throw new NotFoundException("해당 선생님을 찾을 수 없습니다.");
 //        }
+//        테스트 코드 확인위해서 잠시 주석처리
 
         FindTeacherByIdResponseDto findTeacherByIdResponseDto = new FindTeacherByIdResponseDto();
         findTeacherByIdResponseDto.setTeacher(teacher);
