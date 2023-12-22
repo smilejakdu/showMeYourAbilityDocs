@@ -9,4 +9,6 @@
   * [Terraform 이란 ?](terraform/terraform.md)
   * [간단한 EC2 배포](terraform/ec2.md)
   * [엘라스틱 빈스톡 배포](terraform/undefined.md)
-* [QueryDSL](querydsl.md)
+* [QueryDSL](querydsl/README.md)
+  * [셋팅](querydsl/undefined.md)
+  * [Page 2](querydsl/page-2.md)
