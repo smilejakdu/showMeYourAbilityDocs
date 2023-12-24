@@ -1,9 +1,12 @@
 # Table of contents
 
 * [showMeYourAbilityDocs](README.md)
-* [User](user.md)
+* [User](user/README.md)
+  * [회원가입](user/undefined.md)
+  * [로그인](user/undefined-1.md)
 * [Teacher](teacher/README.md)
   * [FindTeacherApplication](teacher/findteacherapplication.md)
+  * [FindRecentTeacher](teacher/findrecentteacher.md)
 * [Exception 처리](exception.md)
 * [Terraform](terraform/README.md)
   * [Terraform 이란 ?](terraform/terraform.md)
