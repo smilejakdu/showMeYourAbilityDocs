@@ -1,7 +1,7 @@
 # Table of contents
 
 * [showMeYourAbilityDocs](README.md)
-* [User](user/README.md)
+* [User](user.md)
   * [회원가입](user/undefined.md)
   * [로그인](user/undefined-1.md)
 * [Teacher](teacher/README.md)
